@@ -2,19 +2,23 @@
     "category" : [
         {
             "id" : 1,
-            "Name" : "Найкраща ціна"
+            "Name" : "Найкраща ціна",
+            "nameId":"best_price"
         },
         {
             "id" : 2,
-            "Name" : "Класична"
+            "Name" : "Класична",
+            "nameId": "classic"
         },
         {
             "id" : 3,
-            "Name" : "Фірмова"
+            "Name" : "Фірмова",
+            "nameId": "branded"
         },
         {
             "id" : 4,
-            "Name" : "Легенди"
+            "Name" : "Легенди",
+            "nameId": "legends"
         }
     ],
     "pizza" : [
